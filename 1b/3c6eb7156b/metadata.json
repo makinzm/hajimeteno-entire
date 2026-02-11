@@ -1,0 +1,28 @@
+{
+  "cli_version": "0.4.2",
+  "checkpoint_id": "1b3c6eb7156b",
+  "strategy": "manual-commit",
+  "branch": "feat/uv-init",
+  "checkpoints_count": 1,
+  "files_touched": [
+    ".python-version",
+    "main.py",
+    "pyproject.toml"
+  ],
+  "sessions": [
+    {
+      "metadata": "/1b/3c6eb7156b/0/metadata.json",
+      "transcript": "/1b/3c6eb7156b/0/full.jsonl",
+      "context": "/1b/3c6eb7156b/0/context.md",
+      "content_hash": "/1b/3c6eb7156b/0/content_hash.txt",
+      "prompt": "/1b/3c6eb7156b/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 7,
+    "cache_creation_tokens": 5013,
+    "cache_read_tokens": 93577,
+    "output_tokens": 589,
+    "api_call_count": 5
+  }
+}
