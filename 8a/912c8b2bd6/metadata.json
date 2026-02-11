@@ -1,0 +1,30 @@
+{
+  "cli_version": "0.4.2",
+  "checkpoint_id": "8a912c8b2bd6",
+  "strategy": "manual-commit",
+  "branch": "check/can-you-save-claude.md",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "__pycache__/add.cpython-312.pyc",
+    "__pycache__/test_add.cpython-312-pytest-9.0.2.pyc",
+    "add.py",
+    "test_add.py",
+    "uv.lock"
+  ],
+  "sessions": [
+    {
+      "metadata": "/8a/912c8b2bd6/0/metadata.json",
+      "transcript": "/8a/912c8b2bd6/0/full.jsonl",
+      "context": "/8a/912c8b2bd6/0/context.md",
+      "content_hash": "/8a/912c8b2bd6/0/content_hash.txt",
+      "prompt": "/8a/912c8b2bd6/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 25,
+    "cache_creation_tokens": 8278,
+    "cache_read_tokens": 393402,
+    "output_tokens": 2007,
+    "api_call_count": 19
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cli_version": "0.4.2",
+  "checkpoint_id": "8a912c8b2bd6",
+  "session_id": "6764ca2b-a2bc-437d-8d4a-047d44c2b851",
+  "strategy": "manual-commit",
+  "created_at": "2026-02-11T23:44:46.578727586Z",
+  "branch": "check/can-you-save-claude.md",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "__pycache__/add.cpython-312.pyc",
+    "__pycache__/test_add.cpython-312-pytest-9.0.2.pyc",
+    "add.py",
+    "test_add.py",
+    "uv.lock"
+  ],
+  "agent": "Claude Code",
+  "token_usage": {
+    "input_tokens": 25,
+    "cache_creation_tokens": 8278,
+    "cache_read_tokens": 393402,
+    "output_tokens": 2007,
+    "api_call_count": 19
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-02-11T23:44:46.562936259Z",
+    "agent_lines": 15,
+    "human_added": 0,
+    "human_modified": 14,
+    "human_removed": 61,
+    "total_committed": 29,
+    "agent_percentage": 51.724137931034484
+  }
+}
